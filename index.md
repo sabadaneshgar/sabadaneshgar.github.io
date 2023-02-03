@@ -9,7 +9,7 @@ layout: home
 
 <span style="font-size:1.2em;">
 Hello! <br>
-I am a researcher from Tehran, Iran and live in Gent, Belgium.<br>
+I am a researcher at BIOMATH, Ghent University.<br>
 My research focus is on mathematical modelling and optimization of bio-processes. I am particularly interested in developing mechanistic models for a wide range of applications from water and wastewater treatment processes to biopharmaceutical processes.  </span>
 
 
