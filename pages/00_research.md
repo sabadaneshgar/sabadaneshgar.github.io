@@ -16,14 +16,4 @@ processes.
 
 
 
-## __HYBRID MODELLING__
 
-<img src="/assets/img/models.png">
-
-
-## __DIGITAL TWIN__
-
-<img src="/assets/img/dt.png">
-
-
-## __ONTOLOGY__
