@@ -41,15 +41,13 @@ linkedin_username: sabadaneshgar
 # ORCID: 0000-0002-6407-1145
 # Build settings
 
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
   
-sass:
-    style: compressed
-    sass_dir: _sass  
+  
 
 
 # Exclude from processing.
